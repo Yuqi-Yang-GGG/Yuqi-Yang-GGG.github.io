@@ -1,5 +1,5 @@
 ## Analytics Projects
-More detailed in Github Profile.
+More details in Github Profile.
 
 
 ### 1. City of Rochester Practicum
