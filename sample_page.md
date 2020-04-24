@@ -1,31 +1,15 @@
-## This can be your internal website page / project page
+## Analytics Projects
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 1. City of Rochester Practicum
+**Project description:** While there is a rich ecosystem of small businesses in Rochester, there are many goods and services that cannot be acquired within our city limits, so residents must travel to the suburban ring around the city to make those purchases. The City of Rochester seeks assistance in crafting a data-driven strategy for attracting national retailers as part of an overall economic development strategy to attract investment and increase our economic diversity, with the ultimate goal to increase the city’s employment opportunities, sales tax revenue, building occupancy, and retail offerings. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+The city is specifically looking to produce a polished ‘pitch deck’ aimed at a particular businesses that is informed by data and makes a compelling case to locate to a targeted neighborhood of the city. This deck would then be used by the City’s economic development staff and Senior Leadership Team to initiate discussions with these firms.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. Iron Mountain Pricing Case
+**Project description:** Iron Mountain Incorporated (NYSE: IRM), founded in 1951 is the global leader for storage and information management services. Trusted by more than 225,000 organizations around the world, Iron Mountain stores and protects billions of valued assets, including critical business information, highly sensitive data, and cultural and historical artifacts. Providing solutions that include information management, digital transformation, secure storage, secure destruction, data centers, cloud services and art storage and logistics, Iron Mountain helps customers lower cost and risk, comply with regulations, recover from disaster, and enable a digital way of working.
 
-### 2. Assess assumptions on which statistical inference will be based
+In 2020, IRM will be merging the data into one system. IRM have not calculated pricing or revenue impact of providing the customers with a weighted average (by storage volume) or simple average pricing. We need to understand the current pricing for this segment to optimize our Revenue Management Strategy in 2020. Without understanding if the previous locations were priced higher/lower/inconstantly, it is difficult to determine the appropriate strategy going forward. Work needs to be done to determine what the actual variance is that exists in the data to know if we want to consolidate the pricing offerings to our clients or continue to offer them different pricing by location.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
